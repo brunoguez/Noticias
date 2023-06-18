@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 using Noticias.Models;
 using Noticias.Services;
-using Microsoft.IdentityModel.Tokens;
 
 namespace Noticias.Controllers
 {
@@ -20,7 +20,7 @@ namespace Noticias.Controllers
 
             var token = new TokenService().GenerateToken(user);
             user.Password = "";
-            return Ok(new { user = user, token = token });
+            return Ok(new { user = user, token = token, nextPage = "noticias" });
         }
 
         [HttpGet]

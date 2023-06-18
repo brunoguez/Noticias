@@ -46,7 +46,7 @@ namespace Noticias.Controllers
                 TokenService tokenService = new();
                 User? userVerify = tokenService.VerifyToken(tokenOld);
 
-                if (userVerify is default(User)) return NotFound("Usuário não encontrado");
+                if (userVerify is default(User)) return base.NotFound("Usuário não encontrado");
                 if (id.Equals(userVerify.Id)) return BadRequest("Id difere do token");
 
                 user.Id = id;
@@ -54,7 +54,7 @@ namespace Noticias.Controllers
                 userService.UpdateUser(userVerify);
                 User? userUpdated = userService.GetById(user.Id);
 
-                if (userUpdated is default(User)) return StatusCode(500,"Erro ao atualizar o usuário");
+                if (userUpdated is default(User)) return base.StatusCode(500,"Erro ao atualizar o usuário");
 
                 var tokenRefresh = tokenService.RefreshToken(tokenOld);
                 return Ok(new { user = userUpdated, token = tokenRefresh });

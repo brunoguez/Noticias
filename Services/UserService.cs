@@ -1,6 +1,7 @@
-﻿using Noticias.Models;
-using Noticias.Repositories;
+﻿
 using System.Net;
+using Noticias.Repositories;
+using Noticias.Models;
 
 namespace Noticias.Services
 {

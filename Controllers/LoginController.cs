@@ -9,10 +9,7 @@ namespace Noticias.Controllers
         [HttpGet]
         public ActionResult Login()
         {
-            
             return View();
         }
-
-        
     }
 }

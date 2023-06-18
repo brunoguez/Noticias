@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.DataProtection;
-using Microsoft.Data.Sqlite;
-using Noticias.Models;
+﻿using Microsoft.Data.Sqlite;
 using Shop;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Data;
@@ -24,68 +22,69 @@ namespace Noticias.Repositories
 
         public int ExecuteNonQuery(string sql, SqlParameter[]? sqlParameters = null)
         {
-            //using (var connection = providerFactory.CreateConnection())
-            //{
-            //    connection.ConnectionString = connectionString;
-            //    connection.Open();
-            //    using (var command = connection.CreateCommand())
-            //    {
-            //        command.CommandText = sql;
-            //        command.ExecuteNonQuery();
-            //    }
-            //}
-            using (SqlConnection connection = new(connectionString))
+            using (var connection = providerFactory.CreateConnection())
             {
+                connection.ConnectionString = connectionString;
                 connection.Open();
-                using (SqlCommand cmd = new(sql, connection))
+                using (var command = connection.CreateCommand())
                 {
-                    if (sqlParameters != null)
-                    {
-                        foreach (SqlParameter item in sqlParameters)
-                        {
-                            if (item.Value == null) item.Value = DBNull.Value;
-                        }
-                        cmd.Parameters.AddRange(sqlParameters);
-                    }
-                    return cmd.ExecuteNonQuery();
+                    command.CommandText = sql;
+                    return command.ExecuteNonQuery();
                 }
             }
+            //using (SqlConnection connection = new(connectionString))
+            //{
+            //    connection.Open();
+            //    using (SqlCommand cmd = new(sql, connection))
+            //    {
+            //        if (sqlParameters != null)
+            //        {
+            //            foreach (SqlParameter item in sqlParameters)
+            //            {
+            //                if (item.Value == null) item.Value = DBNull.Value;
+            //            }
+            //            cmd.Parameters.AddRange(sqlParameters);
+            //        }
+            //        return cmd.ExecuteNonQuery();
+            //    }
+            //}
         }
 
         public object ExecuteScalar(string sql)
         {
-            //using (var connection = providerFactory.CreateConnection())
-            //{
-            //    connection.ConnectionString = connectionString;
-            //    connection.Open();
-            //    using (var command = connection.CreateCommand())
-            //    {
-            //        command.CommandText = sql;
-            //        return command.ExecuteScalar();
-            //    }
-            //}
-            using (SqlConnection connection = new(connectionString))
+            using (var connection = providerFactory.CreateConnection())
             {
+                connection.ConnectionString = connectionString;
                 connection.Open();
-                using (SqlCommand cmd = new(sql, connection))
+                using (var command = connection.CreateCommand())
                 {
-                    return cmd.ExecuteScalar();
+                    command.CommandText = sql;
+                    return command.ExecuteScalar();
                 }
             }
+            //using (SqlConnection connection = new(connectionString))
+            //{
+            //    connection.Open();
+            //    using (SqlCommand cmd = new(sql, connection))
+            //    {
+            //        return cmd.ExecuteScalar();
+            //    }
+            //}
 
         }
 
-        public SqlDataReader ExecuteReader(string sql)
+        public DbDataReader ExecuteReader(string sql)
         {
-            //var connection = providerFactory.CreateConnection();
-            //connection.ConnectionString = connectionString;
-            //var command = connection.CreateCommand();
-            //command.CommandText = sql;
-            //return command.ExecuteReader();
-            SqlConnection connection = new(connectionString);
+            var connection = providerFactory.CreateConnection();
+            connection.ConnectionString = connectionString;
+            var command = connection.CreateCommand();
+            command.CommandText = sql;
             connection.Open();
-            SqlCommand cmd = new(sql, connection);
-            return cmd.ExecuteReader();
+            return command.ExecuteReader();
+
+            //SqlConnection connection = new(connectionString);
+            //SqlCommand cmd = new(sql, connection);
+            //return cmd.ExecuteReader();
         }
 
         public List<T> GetList<T>(string query)

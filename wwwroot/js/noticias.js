@@ -1,0 +1,7 @@
+﻿$(() => {
+    carregarDataSourceNoticias();
+});
+
+function carregarDataSourceNoticias() {
+
+}

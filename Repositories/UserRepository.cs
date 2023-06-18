@@ -1,8 +1,5 @@
 ﻿using Noticias.Models;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Data.Common;
 using System.Data.SqlClient;
-using System.Reflection;
 
 namespace Noticias.Repositories
 {

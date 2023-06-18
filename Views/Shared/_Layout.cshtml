@@ -1,5 +1,16 @@
 ﻿<!DOCTYPE html>
 
+<style>
+    main {
+        height: 100vh;
+        height: -webkit-fill-available;
+        max-height: 100vh;
+        overflow-x: auto;
+        overflow-y: hidden;
+    }
+
+</style>
+
 <html>
 
 <head>
@@ -14,11 +25,66 @@
         DevExpress.localization.locale("pt");
     </script>
     <script src="/js/localization/dx.messages.pt.js"></script>
+    <script src="/js/pnotify.js"></script>
+    <link rel="stylesheet" href="/css/pnotify.css">
     <title>@ViewBag.Title</title>
 </head>
 
 <body>
-    @RenderBody()
+
+    <main id="slideBar" class="d-flex flex-nowrap">
+        <div class="d-flex flex-column flex-shrink-0 p-3 bg-body-tertiary" style="width: 280px;">
+            <a href="/" id="namePage" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+                <svg class="bi pe-none me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
+                <span class="fs-4">Sidebar</span>
+            </a>
+            <hr>
+            <ul class="nav nav-pills flex-column mb-auto">
+                <li class="nav-item">
+                    <a href="#" id="noticias" class="selecao nav-link" aria-current="page">
+                        <svg class="bi pe-none me-2" width="16" height="16"></svg>
+                        Noticias
+                    </a>
+                </li>
+                <li>
+                    <a href="#" id="configs" class="selecao nav-link" style="display:none;">
+                        <svg class="bi pe-none me-2" width="16" height="16"></svg>
+                        Configurações
+                    </a>
+                </li>
+                <li>
+                    <a href="#" id="publicacao" class="selecao nav-link" style="display:none;">
+                        <svg class="bi pe-none me-2" width="16" height="16"></svg>
+                        Publicação
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="nav-link link-body-emphasis" style="display:none;">
+                        <svg class="bi pe-none me-2" width="16" height="16"></svg>
+                        Products
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="nav-link link-body-emphasis" style="display:none;">
+                        <svg class="bi pe-none me-2" width="16" height="16"></svg>
+                        Customers
+                    </a>
+                </li>
+            </ul>
+            <a href="/login" id="exit" class="nav-link">
+                <svg class="bi pe-none me-2" width="16" height="16"></svg>
+                Sair
+            </a>
+            <hr>
+            <div class="d-flex align-items-center link-body-emphasis text-decoration-none">
+                <img src="/img/sem_imagem.jpg" alt="" width="32" height="32" class="rounded-circle me-2 mx-1">
+                <strong>Você</strong>
+            </div>
+        </div>
+        <div style="width: 100%">
+            @RenderBody()
+        </div>
+    </main>
 </body>
 
 </html>
