@@ -63,6 +63,7 @@ function init() {
         selectButtonText: 'Selecione sua foto',
         labelText: '',
         accept: 'image/*',
+        uploadUrl: "api/user/foto",
         uploadMode: 'useForm',
     })
 

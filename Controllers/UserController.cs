@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Noticias.Models;
 using Noticias.Services;
+using System.Diagnostics;
 
 namespace Noticias.Controllers
 {
@@ -9,7 +10,12 @@ namespace Noticias.Controllers
     public class UserController : Controller
     {
         public readonly UserService userService;
-        public UserController() => userService = new UserService();
+        private readonly IWebHostEnvironment _env;
+        public UserController(IWebHostEnvironment env)
+        {
+            userService = new UserService();
+            _env = env;
+        }
         [HttpGet]
         public IActionResult GetUsers() => View();
 
@@ -17,6 +23,14 @@ namespace Noticias.Controllers
         public IActionResult GetUserById(int id)
         {
             return Ok();
+        }
+
+        [HttpPost]
+        [Route("foto")]
+        public IActionResult SaveFoto()
+        {
+            userService.SaveFoto(Request.Form, GetWwwRootPath());
+            return Ok("Imagem recebida");
         }
 
         [HttpPost]
@@ -54,7 +68,7 @@ namespace Noticias.Controllers
                 userService.UpdateUser(userVerify);
                 User? userUpdated = userService.GetById(user.Id);
 
-                if (userUpdated is default(User)) return base.StatusCode(500,"Erro ao atualizar o usuário");
+                if (userUpdated is default(User)) return base.StatusCode(500, "Erro ao atualizar o usuário");
 
                 var tokenRefresh = tokenService.RefreshToken(tokenOld);
                 return Ok(new { user = userUpdated, token = tokenRefresh });
@@ -73,6 +87,11 @@ namespace Noticias.Controllers
         public IActionResult DeleteUser(int id, User user)
         {
             return Ok();
+        }
+        public string GetWwwRootPath()
+        {
+            string wwwRootPath = _env.WebRootPath;
+            return wwwRootPath;
         }
     }
 }

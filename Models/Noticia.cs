@@ -6,13 +6,14 @@ namespace Noticias.Models
     {
         [Column("idNoticia")] public int Id { get; set; }
         [Column("autorId")] public required string AutorId { get; set; }
-        [Column("autorName")] public required string AutorName { get; set; }
+        [Column("autorNome")] public required string AutorNome { get; set; }
         [Column("titulo")] public required string Titulo { get; set; }
         [Column("dataPublicacao")] public DateTime DataPublicacao { get; set; }
         [Column("imagem")] public string? URL_imagem { get; set; }
         [Column("texto")] public string? Texto { get; set; }
         [Column("publicada")] public bool Publicada { get; set; }
-        [Column("categoriaId")] public bool CategoriaId { get; set; }
+        [Column("categoriaId")] public int CategoriaId { get; set; }
+        [Column("categoriaNome")] public string CategoriaNome { get; set; }
     }
 }
 

@@ -2,13 +2,19 @@
 using System.Net;
 using Noticias.Repositories;
 using Noticias.Models;
+using Org.BouncyCastle.Asn1.Ocsp;
+using System.Security.Policy;
 
 namespace Noticias.Services
 {
     public class UserService
     {
         private readonly UserRepository _repository;
-        public UserService() => _repository = new UserRepository();
+        
+        public UserService()
+        {
+            _repository = new UserRepository();
+        }
         public List<User> GetUsers() => _repository.GetUsers();
         public User GetByEmailAndPassword(string email, string password) => _repository.GetByEmailAndPassword(email, password);
         public User CreateUser(User user)
@@ -34,5 +40,20 @@ namespace Noticias.Services
         }
 
         public User? GetById(int id) => _repository.GetById(id);
+
+        internal void SaveFoto(IFormCollection form, string local)
+        {
+            var file = form.Files[0];
+            if (file.Length > 0)
+            {
+                var filePath = local + "\\img\\usuarios\\" + file.FileName;
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    file.CopyToAsync(stream);
+                }
+            }
+        }
+
+        
     }
 }
