@@ -5,7 +5,7 @@ namespace Noticias.Models
     public class Noticia
     {
         [Column("idNoticia")] public int Id { get; set; }
-        [Column("autorId")] public required string AutorId { get; set; }
+        [Column("autorId")] public int AutorId { get; set; }
         [Column("autorNome")] public required string AutorNome { get; set; }
         [Column("titulo")] public required string Titulo { get; set; }
         [Column("dataPublicacao")] public DateTime DataPublicacao { get; set; }

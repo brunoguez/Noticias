@@ -3,11 +3,34 @@
 }
 
 <style>
-
+    #gridNoticias {
+        overflow: auto;
+    }
 </style>
 
-<div class="mx-4 mt-4">
+<div class="d-flex h-100 mx-4 mt-4">
     <div id="categorias"></div>
+    <div id="gridNoticias" class="w-100 mx-3"></div>
 </div>
+
+<script type="text/html" id="title">
+    <h5>{{ categoria }}</h5>
+</script>
+
+<script type="text/html" id="content">
+    {{ #noticiasList }}
+    <div class="d-flex align-items-center">
+        {{ #urL_imagem }}
+            <img src="/img/noticias/{{ urL_imagem }}" width="220" alt=""/>
+        {{ /urL_imagem }}
+        <div class="mx-2">
+            <h6><b>{{ titulo }}</b></h6>
+            <p>{{ texto }}</p>
+            <p>{{ autorNome }} - {{ dataString }}</p>
+        </div>
+    </div>
+    <hr>
+    {{ /noticiasList }}
+</script>
 
 <script src="/js/noticias.js"></script>

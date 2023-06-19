@@ -1,875 +1,883 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\.DS_Store",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\.DS_Store",
       "PackagePath": "staticwebassets\\css\\.DS_Store"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx-diagram.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx-diagram.css",
       "PackagePath": "staticwebassets\\css\\dx-diagram.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx-diagram.min.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx-diagram.min.css",
       "PackagePath": "staticwebassets\\css\\dx-diagram.min.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx-gantt.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx-gantt.css",
       "PackagePath": "staticwebassets\\css\\dx-gantt.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx-gantt.min.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx-gantt.min.css",
       "PackagePath": "staticwebassets\\css\\dx-gantt.min.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.carmine.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.carmine.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.carmine.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.carmine.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.carmine.css",
       "PackagePath": "staticwebassets\\css\\dx.carmine.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.common.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.common.css",
       "PackagePath": "staticwebassets\\css\\dx.common.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.contrast.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.contrast.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.contrast.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.contrast.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.contrast.css",
       "PackagePath": "staticwebassets\\css\\dx.contrast.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.dark.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.dark.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.dark.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.dark.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.dark.css",
       "PackagePath": "staticwebassets\\css\\dx.dark.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.darkmoon.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.darkmoon.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.darkmoon.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.darkmoon.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.darkmoon.css",
       "PackagePath": "staticwebassets\\css\\dx.darkmoon.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.darkviolet.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.darkviolet.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.darkviolet.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.darkviolet.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.darkviolet.css",
       "PackagePath": "staticwebassets\\css\\dx.darkviolet.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.greenmist.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.greenmist.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.greenmist.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.greenmist.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.greenmist.css",
       "PackagePath": "staticwebassets\\css\\dx.greenmist.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.light.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.light.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.light.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.light.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.light.css",
       "PackagePath": "staticwebassets\\css\\dx.light.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.blue.dark.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.blue.dark.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.material.blue.dark.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.blue.dark.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.blue.dark.css",
       "PackagePath": "staticwebassets\\css\\dx.material.blue.dark.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.blue.light.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.blue.light.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.material.blue.light.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.blue.light.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.blue.light.css",
       "PackagePath": "staticwebassets\\css\\dx.material.blue.light.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.lime.dark.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.lime.dark.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.material.lime.dark.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.lime.dark.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.lime.dark.css",
       "PackagePath": "staticwebassets\\css\\dx.material.lime.dark.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.lime.light.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.lime.light.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.material.lime.light.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.lime.light.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.lime.light.css",
       "PackagePath": "staticwebassets\\css\\dx.material.lime.light.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.orange.dark.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.orange.dark.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.material.orange.dark.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.orange.dark.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.orange.dark.css",
       "PackagePath": "staticwebassets\\css\\dx.material.orange.dark.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.orange.light.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.orange.light.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.material.orange.light.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.orange.light.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.orange.light.css",
       "PackagePath": "staticwebassets\\css\\dx.material.orange.light.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.purple.dark.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.purple.dark.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.material.purple.dark.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.purple.dark.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.purple.dark.css",
       "PackagePath": "staticwebassets\\css\\dx.material.purple.dark.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.purple.light.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.purple.light.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.material.purple.light.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.purple.light.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.purple.light.css",
       "PackagePath": "staticwebassets\\css\\dx.material.purple.light.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.teal.dark.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.teal.dark.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.material.teal.dark.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.teal.dark.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.teal.dark.css",
       "PackagePath": "staticwebassets\\css\\dx.material.teal.dark.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.teal.light.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.teal.light.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.material.teal.light.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.teal.light.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.teal.light.css",
       "PackagePath": "staticwebassets\\css\\dx.material.teal.light.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.softblue.compact.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.softblue.compact.css",
       "PackagePath": "staticwebassets\\css\\dx.softblue.compact.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.softblue.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.softblue.css",
       "PackagePath": "staticwebassets\\css\\dx.softblue.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.ttf",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-300.ttf"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.woff",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-300.woff"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.woff2",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.woff2",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-300.woff2"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.ttf",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-400.ttf"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.woff",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-400.woff"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.woff2",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.woff2",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-400.woff2"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.ttf",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-500.ttf"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.woff",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-500.woff"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.woff2",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.woff2",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-500.woff2"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.ttf",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-700.ttf"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.woff",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-700.woff"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.woff2",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.woff2",
       "PackagePath": "staticwebassets\\css\\fonts\\Roboto-700.woff2"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxicons.ttf",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxicons.ttf",
       "PackagePath": "staticwebassets\\css\\icons\\dxicons.ttf"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxicons.woff",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxicons.woff",
       "PackagePath": "staticwebassets\\css\\icons\\dxicons.woff"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxicons.woff2",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxicons.woff2",
       "PackagePath": "staticwebassets\\css\\icons\\dxicons.woff2"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.ttf",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.ttf",
       "PackagePath": "staticwebassets\\css\\icons\\dxiconsmaterial.ttf"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.woff",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.woff",
       "PackagePath": "staticwebassets\\css\\icons\\dxiconsmaterial.woff"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.woff2",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.woff2",
       "PackagePath": "staticwebassets\\css\\icons\\dxiconsmaterial.woff2"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\main.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\pnotify.css",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\pnotify.css",
       "PackagePath": "staticwebassets\\css\\pnotify.css"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\NewsFlash.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\NewsFlash.jpg",
       "PackagePath": "staticwebassets\\img\\NewsFlash.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\NewsFlashLogin.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\NewsFlashLogin.jpg",
       "PackagePath": "staticwebassets\\img\\NewsFlashLogin.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\1.jpeg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\1.jpeg",
       "PackagePath": "staticwebassets\\img\\noticias\\1.jpeg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\10.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\10.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\11.jpeg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\11.jpeg",
       "PackagePath": "staticwebassets\\img\\noticias\\11.jpeg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\12.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\12.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\13.webp",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\13.webp",
       "PackagePath": "staticwebassets\\img\\noticias\\13.webp"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\14.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\14.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\14.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\15.jpeg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\15.jpeg",
       "PackagePath": "staticwebassets\\img\\noticias\\15.jpeg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\16.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\16.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\16.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\17.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\17.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\17.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\18.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\18.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\18.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\19.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\19.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\19.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\2.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\2.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\20.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\20.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\20.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\21.jpeg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\21.jpeg",
       "PackagePath": "staticwebassets\\img\\noticias\\21.jpeg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\22.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\22.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\22.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\23.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\23.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\23.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\24.webp",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\24.webp",
       "PackagePath": "staticwebassets\\img\\noticias\\24.webp"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\25.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\25.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\25.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\26.webp",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\26.webp",
       "PackagePath": "staticwebassets\\img\\noticias\\26.webp"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\27.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\27.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\27.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\28.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\28.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\28.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\29.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\29.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\29.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\3.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\3.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\30.jpeg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\30.jpeg",
       "PackagePath": "staticwebassets\\img\\noticias\\30.jpeg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\31.jpeg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\31.jpeg",
       "PackagePath": "staticwebassets\\img\\noticias\\31.jpeg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\32.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\32.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\32.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\33.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\33.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\33.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\34.webp",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\34.webp",
       "PackagePath": "staticwebassets\\img\\noticias\\34.webp"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\35.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\35.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\35.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\36.webp",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\36.webp",
       "PackagePath": "staticwebassets\\img\\noticias\\36.webp"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\37.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\37.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\37.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\38.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\38.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\38.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\39.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\39.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\39.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\4.jpeg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\4.jpeg",
       "PackagePath": "staticwebassets\\img\\noticias\\4.jpeg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\40.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\40.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\40.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\41.webp",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\41.webp",
       "PackagePath": "staticwebassets\\img\\noticias\\41.webp"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\5.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\5.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\6.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\6.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\7.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\7.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\8.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\8.jpg",
       "PackagePath": "staticwebassets\\img\\noticias\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\9.jpeg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\9.jpeg",
       "PackagePath": "staticwebassets\\img\\noticias\\9.jpeg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\sem_imagem.jpg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\sem_imagem.jpg",
       "PackagePath": "staticwebassets\\img\\sem_imagem.jpg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\usuarios\\FotoRosto.jpeg",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\usuarios\\FotoRosto.jpeg",
       "PackagePath": "staticwebassets\\img\\usuarios\\FotoRosto.jpeg"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\FileSaver.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\FileSaver.js",
       "PackagePath": "staticwebassets\\js\\FileSaver.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\FileSaver.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\FileSaver.min.js",
       "PackagePath": "staticwebassets\\js\\FileSaver.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\angular.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\angular.js",
       "PackagePath": "staticwebassets\\js\\angular.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\angular.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\angular.min.js",
       "PackagePath": "staticwebassets\\js\\angular.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cadastro.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cadastro.js",
       "PackagePath": "staticwebassets\\js\\cadastro.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr.js",
       "PackagePath": "staticwebassets\\js\\cldr.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr.min.js",
       "PackagePath": "staticwebassets\\js\\cldr.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\event.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\event.js",
       "PackagePath": "staticwebassets\\js\\cldr\\event.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\event.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\event.min.js",
       "PackagePath": "staticwebassets\\js\\cldr\\event.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\supplemental.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\supplemental.js",
       "PackagePath": "staticwebassets\\js\\cldr\\supplemental.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\supplemental.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\supplemental.min.js",
       "PackagePath": "staticwebassets\\js\\cldr\\supplemental.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\unresolved.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\unresolved.js",
       "PackagePath": "staticwebassets\\js\\cldr\\unresolved.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\unresolved.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\unresolved.min.js",
       "PackagePath": "staticwebassets\\js\\cldr\\unresolved.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-diagram.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-diagram.js",
       "PackagePath": "staticwebassets\\js\\dx-diagram.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-diagram.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-diagram.min.js",
       "PackagePath": "staticwebassets\\js\\dx-diagram.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-gantt.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-gantt.js",
       "PackagePath": "staticwebassets\\js\\dx-gantt.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-gantt.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-gantt.min.js",
       "PackagePath": "staticwebassets\\js\\dx-gantt.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-quill.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-quill.js",
       "PackagePath": "staticwebassets\\js\\dx-quill.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-quill.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-quill.min.js",
       "PackagePath": "staticwebassets\\js\\dx-quill.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.all.debug.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.all.debug.js",
       "PackagePath": "staticwebassets\\js\\dx.all.debug.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.all.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.all.js",
       "PackagePath": "staticwebassets\\js\\dx.all.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.aspnet.mvc.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.aspnet.mvc.js",
       "PackagePath": "staticwebassets\\js\\dx.aspnet.mvc.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.viz.debug.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.viz.debug.js",
       "PackagePath": "staticwebassets\\js\\dx.viz.debug.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.viz.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.viz.js",
       "PackagePath": "staticwebassets\\js\\dx.viz.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.web.debug.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.web.debug.js",
       "PackagePath": "staticwebassets\\js\\dx.web.debug.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.web.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.web.js",
       "PackagePath": "staticwebassets\\js\\dx.web.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\exceljs.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\exceljs.js",
       "PackagePath": "staticwebassets\\js\\exceljs.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\exceljs.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\exceljs.min.js",
       "PackagePath": "staticwebassets\\js\\exceljs.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize.js",
       "PackagePath": "staticwebassets\\js\\globalize.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize.min.js",
       "PackagePath": "staticwebassets\\js\\globalize.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\currency.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\currency.js",
       "PackagePath": "staticwebassets\\js\\globalize\\currency.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\currency.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\currency.min.js",
       "PackagePath": "staticwebassets\\js\\globalize\\currency.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\date.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\date.js",
       "PackagePath": "staticwebassets\\js\\globalize\\date.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\date.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\date.min.js",
       "PackagePath": "staticwebassets\\js\\globalize\\date.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\message.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\message.js",
       "PackagePath": "staticwebassets\\js\\globalize\\message.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\message.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\message.min.js",
       "PackagePath": "staticwebassets\\js\\globalize\\message.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\number.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\number.js",
       "PackagePath": "staticwebassets\\js\\globalize\\number.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\number.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\number.min.js",
       "PackagePath": "staticwebassets\\js\\globalize\\number.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jquery.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jquery.js",
       "PackagePath": "staticwebassets\\js\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jquery.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jspdf.plugin.autotable.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jspdf.plugin.autotable.js",
       "PackagePath": "staticwebassets\\js\\jspdf.plugin.autotable.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jspdf.plugin.autotable.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jspdf.plugin.autotable.min.js",
       "PackagePath": "staticwebassets\\js\\jspdf.plugin.autotable.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jspdf.umd.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jspdf.umd.js",
       "PackagePath": "staticwebassets\\js\\jspdf.umd.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jspdf.umd.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jspdf.umd.min.js",
       "PackagePath": "staticwebassets\\js\\jspdf.umd.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jszip.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jszip.js",
       "PackagePath": "staticwebassets\\js\\jszip.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jszip.min.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jszip.min.js",
       "PackagePath": "staticwebassets\\js\\jszip.min.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\knockout-latest.debug.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\knockout-latest.debug.js",
       "PackagePath": "staticwebassets\\js\\knockout-latest.debug.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\knockout-latest.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\knockout-latest.js",
       "PackagePath": "staticwebassets\\js\\knockout-latest.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.ar.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.ar.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.ar.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.ca.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.ca.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.ca.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.cs.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.cs.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.cs.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.de.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.de.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.de.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.el.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.el.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.el.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.en.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.en.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.en.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.es.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.es.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.es.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.fi.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.fi.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.fi.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.fr.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.fr.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.fr.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.hu.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.hu.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.hu.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.it.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.it.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.it.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.ja.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.ja.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.ja.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.lt.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.lt.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.lt.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.nb.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.nb.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.nb.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.nl.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.nl.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.nl.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.pt.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.pt.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.pt.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.ro.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.ro.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.ro.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.ru.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.ru.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.ru.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.sl.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.sl.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.sl.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.sv.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.sv.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.sv.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.tr.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.tr.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.tr.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.vi.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.vi.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.vi.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.zh-tw.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.zh-tw.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.zh-tw.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.zh.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.zh.js",
       "PackagePath": "staticwebassets\\js\\localization\\dx.messages.zh.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\login.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\login.js",
       "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\noticias.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\mustache.js",
+      "PackagePath": "staticwebassets\\js\\mustache.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\noticias.js",
       "PackagePath": "staticwebassets\\js\\noticias.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\pnotify.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\pnotify.js",
       "PackagePath": "staticwebassets\\js\\pnotify.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\africa.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\publicacao.js",
+      "PackagePath": "staticwebassets\\js\\publicacao.js"
+    },
+    {
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\africa.js",
       "PackagePath": "staticwebassets\\js\\vectormap-data\\africa.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\canada.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\canada.js",
       "PackagePath": "staticwebassets\\js\\vectormap-data\\canada.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\eurasia.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\eurasia.js",
       "PackagePath": "staticwebassets\\js\\vectormap-data\\eurasia.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\europe.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\europe.js",
       "PackagePath": "staticwebassets\\js\\vectormap-data\\europe.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\usa.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\usa.js",
       "PackagePath": "staticwebassets\\js\\vectormap-data\\usa.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\world.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\world.js",
       "PackagePath": "staticwebassets\\js\\vectormap-data\\world.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.debug.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.debug.js",
       "PackagePath": "staticwebassets\\js\\vectormap-utils\\dx.vectormaputils.debug.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.js",
       "PackagePath": "staticwebassets\\js\\vectormap-utils\\dx.vectormaputils.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.node.js",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.node.js",
       "PackagePath": "staticwebassets\\js\\vectormap-utils\\dx.vectormaputils.node.js"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\cldr.js-event.d.ts",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\cldr.js-event.d.ts",
       "PackagePath": "staticwebassets\\ts\\cldr.js-event.d.ts"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\cldr.js-supplemental.d.ts",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\cldr.js-supplemental.d.ts",
       "PackagePath": "staticwebassets\\ts\\cldr.js-supplemental.d.ts"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\cldr.js.d.ts",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\cldr.js.d.ts",
       "PackagePath": "staticwebassets\\ts\\cldr.js.d.ts"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\dx.all.d.ts",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\dx.all.d.ts",
       "PackagePath": "staticwebassets\\ts\\dx.all.d.ts"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\globalize.d.ts",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\globalize.d.ts",
       "PackagePath": "staticwebassets\\ts\\globalize.d.ts"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\jquery.d.ts",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\jquery.d.ts",
       "PackagePath": "staticwebassets\\ts\\jquery.d.ts"
     },
     {
-      "Id": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\knockout.d.ts",
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\knockout.d.ts",
       "PackagePath": "staticwebassets\\ts\\knockout.d.ts"
     },
     {

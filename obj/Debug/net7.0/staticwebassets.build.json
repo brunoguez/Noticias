@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t1EA4mLWqR7DpEp5lrmCY9YmJghPnu/j3tQB4Lm8iE4=",
+  "Hash": "7IueiCbXp+PVQX/dj+EtYGdX5spt7ESxdQ8SBgKoZuY=",
   "Source": "Noticias",
   "BasePath": "_content/Noticias",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Noticias\\wwwroot",
       "Source": "Noticias",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\.DS_Store",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\.DS_Store",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\.DS_Store"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.carmine.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.carmine.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.carmine.compact.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.carmine.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.carmine.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.carmine.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.carmine.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.carmine.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.common.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.common.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.common.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.common.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.contrast.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.contrast.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.contrast.compact.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.contrast.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.contrast.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.contrast.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.contrast.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.contrast.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.dark.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.dark.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.dark.compact.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.dark.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.dark.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.dark.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.dark.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.dark.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.darkmoon.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.darkmoon.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.darkmoon.compact.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.darkmoon.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.darkmoon.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.darkmoon.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.darkmoon.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.darkmoon.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.darkviolet.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.darkviolet.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.darkviolet.compact.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.darkviolet.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.darkviolet.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.darkviolet.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.darkviolet.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.darkviolet.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.greenmist.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.greenmist.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.greenmist.compact.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.greenmist.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.greenmist.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.greenmist.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.greenmist.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.greenmist.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.light.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.light.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.light.compact.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.light.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.light.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.light.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.light.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.light.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.blue.dark.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.blue.dark.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.blue.dark.compact.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.blue.dark.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.blue.dark.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.blue.dark.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.blue.dark.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.blue.dark.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.blue.light.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.blue.light.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.blue.light.compact.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.blue.light.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.blue.light.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.blue.light.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.blue.light.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.blue.light.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.lime.dark.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.lime.dark.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.lime.dark.compact.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.lime.dark.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.lime.dark.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.lime.dark.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.lime.dark.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.lime.dark.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.lime.light.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.lime.light.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.lime.light.compact.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.lime.light.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.lime.light.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.lime.light.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.lime.light.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.lime.light.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.orange.dark.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.orange.dark.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.orange.dark.compact.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.orange.dark.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.orange.dark.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.orange.dark.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.orange.dark.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.orange.dark.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.orange.light.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.orange.light.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.orange.light.compact.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.orange.light.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.orange.light.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.orange.light.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.orange.light.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.orange.light.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.purple.dark.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.purple.dark.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.purple.dark.compact.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.purple.dark.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.purple.dark.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.purple.dark.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.purple.dark.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.purple.dark.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.purple.light.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.purple.light.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.purple.light.compact.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.purple.light.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.purple.light.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.purple.light.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.purple.light.css",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.purple.light.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.teal.dark.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.teal.dark.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.teal.dark.compact.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.teal.dark.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.teal.dark.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.teal.dark.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.teal.dark.css",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.teal.dark.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.teal.light.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.teal.light.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.teal.light.compact.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.teal.light.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.material.teal.light.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.material.teal.light.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.material.teal.light.css",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.material.teal.light.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.softblue.compact.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.softblue.compact.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.softblue.compact.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.softblue.compact.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx.softblue.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx.softblue.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx.softblue.css",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx.softblue.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx-diagram.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx-diagram.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx-diagram.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx-diagram.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx-diagram.min.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx-diagram.min.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx-diagram.min.css",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx-diagram.min.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx-gantt.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx-gantt.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx-gantt.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx-gantt.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\dx-gantt.min.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\dx-gantt.min.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/dx-gantt.min.css",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\css\\dx-gantt.min.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.ttf",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.ttf",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-300.ttf",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-300.ttf"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.woff",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.woff",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-300.woff",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-300.woff"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.woff2",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-300.woff2",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-300.woff2",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-300.woff2"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.ttf",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.ttf",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-400.ttf",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.woff",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.woff",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-400.woff",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.woff2",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-400.woff2",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-400.woff2",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.ttf",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.ttf",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-500.ttf",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-500.ttf"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.woff",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.woff",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-500.woff",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-500.woff"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.woff2",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-500.woff2",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-500.woff2",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-500.woff2"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.ttf",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.ttf",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-700.ttf",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-700.ttf"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.woff",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.woff",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-700.woff",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-700.woff"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.woff2",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\fonts\\Roboto-700.woff2",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/fonts/Roboto-700.woff2",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts\\Roboto-700.woff2"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxicons.ttf",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxicons.ttf",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/icons/dxicons.ttf",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icons\\dxicons.ttf"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxicons.woff",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxicons.woff",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/icons/dxicons.woff",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icons\\dxicons.woff"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxicons.woff2",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxicons.woff2",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/icons/dxicons.woff2",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icons\\dxicons.woff2"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.ttf",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.ttf",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/icons/dxiconsmaterial.ttf",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icons\\dxiconsmaterial.ttf"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.woff",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.woff",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/icons/dxiconsmaterial.woff",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icons\\dxiconsmaterial.woff"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.woff2",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\icons\\dxiconsmaterial.woff2",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/icons/dxiconsmaterial.woff2",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icons\\dxiconsmaterial.woff2"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\main.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\main.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\css\\pnotify.css",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\css\\pnotify.css",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "css/pnotify.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\css\\pnotify.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\NewsFlash.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\NewsFlash.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/NewsFlash.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\NewsFlash.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\NewsFlashLogin.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\NewsFlashLogin.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/NewsFlashLogin.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\NewsFlashLogin.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\1.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\1.jpeg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/1.jpeg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\10.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\10.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/10.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\10.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\11.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\11.jpeg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/11.jpeg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\11.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\12.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\12.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/12.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\12.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\13.webp",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\13.webp",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/13.webp",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\13.webp"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\14.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\14.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/14.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\14.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\15.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\15.jpeg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/15.jpeg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\15.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\16.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\16.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/16.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\16.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\17.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\17.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/17.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\17.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\18.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\18.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/18.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\18.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\19.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\19.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/19.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\19.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\2.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\2.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/2.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\20.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\20.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/20.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\20.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\21.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\21.jpeg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/21.jpeg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\21.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\22.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\22.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/22.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\22.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\23.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\23.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/23.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\23.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\24.webp",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\24.webp",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/24.webp",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\24.webp"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\25.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\25.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/25.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\25.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\26.webp",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\26.webp",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/26.webp",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\26.webp"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\27.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\27.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/27.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\27.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\28.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\28.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/28.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\28.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\29.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\29.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/29.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\29.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\3.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\3.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/3.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\30.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\30.jpeg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/30.jpeg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\30.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\31.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\31.jpeg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/31.jpeg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\31.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\32.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\32.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/32.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\32.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\33.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\33.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/33.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\33.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\34.webp",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\34.webp",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/34.webp",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\34.webp"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\35.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\35.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/35.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\35.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\36.webp",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\36.webp",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/36.webp",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\36.webp"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\37.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\37.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/37.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\37.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\38.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\38.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/38.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\38.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\39.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\39.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/39.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\39.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\4.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\4.jpeg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/4.jpeg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\40.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\40.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/40.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\40.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\41.webp",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\41.webp",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/41.webp",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\41.webp"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\5.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\5.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/5.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\6.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\6.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/6.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\7.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\7.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/7.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\8.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\8.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/8.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\noticias\\9.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\noticias\\9.jpeg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/noticias/9.jpeg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\img\\noticias\\9.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\sem_imagem.jpg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\sem_imagem.jpg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/sem_imagem.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sem_imagem.jpg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\img\\usuarios\\FotoRosto.jpeg",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\usuarios\\FotoRosto.jpeg",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "img/usuarios/FotoRosto.jpeg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\img\\usuarios\\FotoRosto.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\angular.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\angular.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/angular.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\js\\angular.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\angular.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\angular.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/angular.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\js\\angular.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cadastro.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cadastro.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/cadastro.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cadastro.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/cldr.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cldr.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/cldr.min.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cldr.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\event.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\event.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/cldr/event.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cldr\\event.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\event.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\event.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/cldr/event.min.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cldr\\event.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\supplemental.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\supplemental.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/cldr/supplemental.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cldr\\supplemental.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\supplemental.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\supplemental.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/cldr/supplemental.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cldr\\supplemental.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\unresolved.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\unresolved.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/cldr/unresolved.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cldr\\unresolved.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\cldr\\unresolved.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\cldr\\unresolved.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/cldr/unresolved.min.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\js\\cldr\\unresolved.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.all.debug.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.all.debug.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx.all.debug.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx.all.debug.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.all.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.all.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx.all.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx.all.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.aspnet.mvc.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.aspnet.mvc.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx.aspnet.mvc.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx.aspnet.mvc.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.viz.debug.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.viz.debug.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx.viz.debug.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx.viz.debug.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.viz.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.viz.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx.viz.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx.viz.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.web.debug.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.web.debug.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx.web.debug.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx.web.debug.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx.web.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx.web.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx.web.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx.web.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-diagram.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-diagram.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx-diagram.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx-diagram.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-diagram.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-diagram.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx-diagram.min.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx-diagram.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-gantt.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-gantt.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx-gantt.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx-gantt.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-gantt.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-gantt.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx-gantt.min.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx-gantt.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-quill.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-quill.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx-quill.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx-quill.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\dx-quill.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\dx-quill.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/dx-quill.min.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\js\\dx-quill.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\exceljs.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\exceljs.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/exceljs.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\js\\exceljs.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\exceljs.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\exceljs.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/exceljs.min.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\js\\exceljs.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\FileSaver.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\FileSaver.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/FileSaver.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\js\\FileSaver.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\FileSaver.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\FileSaver.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/FileSaver.min.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\js\\FileSaver.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/globalize.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\js\\globalize.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/globalize.min.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\js\\globalize.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\currency.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\currency.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/globalize/currency.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\js\\globalize\\currency.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\currency.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\currency.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/globalize/currency.min.js",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\js\\globalize\\currency.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\date.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\date.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/globalize/date.js",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\js\\globalize\\date.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\date.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\date.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/globalize/date.min.js",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\js\\globalize\\date.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\message.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\message.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/globalize/message.js",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\js\\globalize\\message.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\message.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\message.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/globalize/message.min.js",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\js\\globalize\\message.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\number.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\number.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/globalize/number.js",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\js\\globalize\\number.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\globalize\\number.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\globalize\\number.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/globalize/number.min.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\js\\globalize\\number.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jquery.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jquery.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/jquery.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jquery.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jspdf.plugin.autotable.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jspdf.plugin.autotable.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/jspdf.plugin.autotable.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jspdf.plugin.autotable.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jspdf.plugin.autotable.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jspdf.plugin.autotable.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/jspdf.plugin.autotable.min.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jspdf.plugin.autotable.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jspdf.umd.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jspdf.umd.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/jspdf.umd.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jspdf.umd.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jspdf.umd.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jspdf.umd.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/jspdf.umd.min.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jspdf.umd.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jszip.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jszip.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/jszip.js",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jszip.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\jszip.min.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\jszip.min.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/jszip.min.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jszip.min.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\knockout-latest.debug.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\knockout-latest.debug.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/knockout-latest.debug.js",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\js\\knockout-latest.debug.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\knockout-latest.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\knockout-latest.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/knockout-latest.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\js\\knockout-latest.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.ar.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.ar.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.ar.js",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.ar.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.ca.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.ca.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.ca.js",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.ca.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.cs.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.cs.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.cs.js",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.cs.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.de.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.de.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.de.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.de.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.el.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.el.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.el.js",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.el.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.en.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.en.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.en.js",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.en.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.es.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.es.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.es.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.es.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.fi.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.fi.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.fi.js",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.fi.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.fr.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.fr.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.fr.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.fr.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.hu.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.hu.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.hu.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.hu.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.it.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.it.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.it.js",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.it.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.ja.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.ja.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.ja.js",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.ja.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.lt.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.lt.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.lt.js",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.lt.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.nb.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.nb.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.nb.js",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.nb.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.nl.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.nl.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.nl.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.nl.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.pt.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.pt.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.pt.js",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.pt.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.ro.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.ro.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.ro.js",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.ro.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.ru.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.ru.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.ru.js",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.ru.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.sl.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.sl.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.sl.js",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.sl.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.sv.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.sv.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.sv.js",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.sv.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.tr.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.tr.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.tr.js",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.tr.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.vi.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.vi.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.vi.js",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.vi.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.zh.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.zh.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.zh.js",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.zh.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\localization\\dx.messages.zh-tw.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\localization\\dx.messages.zh-tw.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/localization/dx.messages.zh-tw.js",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\js\\localization\\dx.messages.zh-tw.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\login.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\login.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/login.js",
       "AssetKind": "All",
@@ -3417,10 +3417,27 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\noticias.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\mustache.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
+      "BasePath": "_content/Noticias",
+      "RelativePath": "js/mustache.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\mustache.js"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\noticias.js",
+      "SourceId": "Noticias",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/noticias.js",
       "AssetKind": "All",
@@ -3434,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\js\\noticias.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\pnotify.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\pnotify.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/pnotify.js",
       "AssetKind": "All",
@@ -3451,10 +3468,27 @@
       "OriginalItemSpec": "wwwroot\\js\\pnotify.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\africa.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\publicacao.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
+      "BasePath": "_content/Noticias",
+      "RelativePath": "js/publicacao.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\publicacao.js"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\africa.js",
+      "SourceId": "Noticias",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/vectormap-data/africa.js",
       "AssetKind": "All",
@@ -3468,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vectormap-data\\africa.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\canada.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\canada.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/vectormap-data/canada.js",
       "AssetKind": "All",
@@ -3485,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vectormap-data\\canada.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\eurasia.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\eurasia.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/vectormap-data/eurasia.js",
       "AssetKind": "All",
@@ -3502,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vectormap-data\\eurasia.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\europe.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\europe.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/vectormap-data/europe.js",
       "AssetKind": "All",
@@ -3519,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vectormap-data\\europe.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\usa.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\usa.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/vectormap-data/usa.js",
       "AssetKind": "All",
@@ -3536,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vectormap-data\\usa.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-data\\world.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-data\\world.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/vectormap-data/world.js",
       "AssetKind": "All",
@@ -3553,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vectormap-data\\world.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.debug.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.debug.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/vectormap-utils/dx.vectormaputils.debug.js",
       "AssetKind": "All",
@@ -3570,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vectormap-utils\\dx.vectormaputils.debug.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/vectormap-utils/dx.vectormaputils.js",
       "AssetKind": "All",
@@ -3587,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vectormap-utils\\dx.vectormaputils.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.node.js",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\vectormap-utils\\dx.vectormaputils.node.js",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "js/vectormap-utils/dx.vectormaputils.node.js",
       "AssetKind": "All",
@@ -3604,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vectormap-utils\\dx.vectormaputils.node.js"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\cldr.js.d.ts",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\cldr.js.d.ts",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "ts/cldr.js.d.ts",
       "AssetKind": "All",
@@ -3621,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\ts\\cldr.js.d.ts"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\cldr.js-event.d.ts",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\cldr.js-event.d.ts",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "ts/cldr.js-event.d.ts",
       "AssetKind": "All",
@@ -3638,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\ts\\cldr.js-event.d.ts"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\cldr.js-supplemental.d.ts",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\cldr.js-supplemental.d.ts",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "ts/cldr.js-supplemental.d.ts",
       "AssetKind": "All",
@@ -3655,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\ts\\cldr.js-supplemental.d.ts"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\dx.all.d.ts",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\dx.all.d.ts",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "ts/dx.all.d.ts",
       "AssetKind": "All",
@@ -3672,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\ts\\dx.all.d.ts"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\globalize.d.ts",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\globalize.d.ts",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "ts/globalize.d.ts",
       "AssetKind": "All",
@@ -3689,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\ts\\globalize.d.ts"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\jquery.d.ts",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\jquery.d.ts",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "ts/jquery.d.ts",
       "AssetKind": "All",
@@ -3706,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\ts\\jquery.d.ts"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\ts\\knockout.d.ts",
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\ts\\knockout.d.ts",
       "SourceId": "Noticias",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
       "BasePath": "_content/Noticias",
       "RelativePath": "ts/knockout.d.ts",
       "AssetKind": "All",
