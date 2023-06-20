@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Noticias.Controllers
@@ -7,6 +7,7 @@ namespace Noticias.Controllers
     public class LoginController : Controller
     {
         [HttpGet]
+        [AllowAnonymous]
         public ActionResult Login()
         {
             return View();

@@ -27,6 +27,7 @@ function init() {
     });
 
     new DevExpress.ui.dxValidator("#nome", {
+        validationGroup: "validator",
         validationRules: [{
             type: 'required',
             message: 'Nome é necessário para o cadastro',
@@ -40,6 +41,7 @@ function init() {
     });
 
     new DevExpress.ui.dxValidator("#email", {
+        validationGroup: "validator",
         validationRules: [{
             type: 'required',
             message: 'E-mail é necessário para o cadastro',
@@ -53,6 +55,7 @@ function init() {
     });
 
     new DevExpress.ui.dxValidator("#senha", {
+        validationGroup: "validator",
         validationRules: [{
             type: 'required',
             message: 'Sanha é necessária para o cadastro',
@@ -78,12 +81,7 @@ function init() {
         width: 100,
         onClick: e => {
             console.log(e);
-            dxComp.nome.validationRequest.fire();
-            dxComp.email.validationRequest.fire();
-            dxComp.senha.validationRequest.fire();
-            if (dxComp.nome.option('validationStatus') !== 'valid' &&
-                dxComp.email.option('validationStatus') !== 'valid' &&
-                dxComp.senha.option('validationStatus') !== 'valid') return;
+            if (!DevExpress.validationEngine.validateGroup("validator").isValid) return;
 
             //TODO: enviar create usuário
 
