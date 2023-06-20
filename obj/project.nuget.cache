@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5bt3nHmYr7nBj7+ZtPmDRBEXiWmr2K29Y4SbAmYRQJcwQ/wMdwFw/P+nQ0KIOJrczl/vpaWXxt7q6B/5kBbz5A==",
+  "dgSpecHash": "uZmJA5EhSopyHiFLf1oHpTrOkn1KxCi5ADSkzeC0mLGeZwDDzLLtYo9G2o/9qC3LUPKPp12hAqb5y4AbdZ7+5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruno\\Noticias\\Noticias.csproj",
+  "projectFilePath": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\Noticias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruno\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Bruno\\.nuget\\packages\\mailkit\\4.1.0\\mailkit.4.1.0.nupkg.sha512",

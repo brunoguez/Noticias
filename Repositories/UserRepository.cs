@@ -1,4 +1,5 @@
-﻿using Noticias.Models;
+﻿using Microsoft.Data.Sqlite;
+using Noticias.Models;
 using System.Data.SqlClient;
 
 namespace Noticias.Repositories
@@ -37,13 +38,13 @@ namespace Noticias.Repositories
                 	@senha
                 )";
 
-            SqlParameter[] sqlParameters =
+            SqliteParameter[] sqlParameters =
             {
-                new SqlParameter("email", user.Email),
-                new SqlParameter("nome", user.Nome),
-                new SqlParameter("foto", user.Foto),
-                new SqlParameter("perfil", user.Perfil),
-                new SqlParameter("senha", user.Password)
+                new SqliteParameter("email", user.Email),
+                new SqliteParameter("nome", user.Nome),
+                new SqliteParameter("foto", user.Foto),
+                new SqliteParameter("perfil", user.Perfil),
+                new SqliteParameter("senha", user.Password)
             };
 
             return helper.ExecuteNonQuery(cmd, sqlParameters);
@@ -70,13 +71,13 @@ namespace Noticias.Repositories
                 	perfil = @perfil,
                 	senha = @senha";
 
-            SqlParameter[] sqlParameters =
+            SqliteParameter[] sqlParameters =
             {
-                new SqlParameter("email", user.Email),
-                new SqlParameter("nome", user.Nome),
-                new SqlParameter("foto", user.Foto),
-                new SqlParameter("perfil", user.Perfil),
-                new SqlParameter("senha", user.Password)
+                new SqliteParameter("email", user.Email),
+                new SqliteParameter("nome", user.Nome),
+                new SqliteParameter("foto", user.Foto),
+                new SqliteParameter("perfil", user.Perfil),
+                new SqliteParameter("senha", user.Password)
             };
 
             helper.ExecuteNonQuery(cmd, sqlParameters);

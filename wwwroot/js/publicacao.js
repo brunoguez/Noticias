@@ -18,6 +18,7 @@ function carregarDataSourcePublicacao() {
             console.log(a);
             dataSource.categorias = a.categorias;
             dataSource.noticias = a.noticias;
+            dataSource.user = a.user;
         })
         .fail(a => {
             console.error(a);
@@ -26,9 +27,20 @@ function carregarDataSourcePublicacao() {
 
 function carregaDxComp() {
 
+    dxComp.lookUpNoticias = new DevExpress.ui.dxLookup("#lookUpNoticias", {
+        width: 700,
+        wrapItemText: true,
+        dataSource: dataSource.noticias,
+        valueExpr: 'id',
+        displayExpr: 'desc',
+        labelMode: "floating",
+        label: "Publicações anteriores",
+        showClearButton: true,
+    })
+
     dxComp.titulo = new DevExpress.ui.dxTextBox("#titulo", {
         label: "Título",
-        width: 400,
+        width: 800,
         labelMode: "floating",
     });
     new DevExpress.ui.dxValidator("#titulo", {
@@ -43,13 +55,14 @@ function carregaDxComp() {
         selectButtonText: 'Selecione sua imagem',
         labelText: '',
         accept: 'image/*',
-        uploadUrl: "api/noticia/imagem",
+        //uploadUrl: "api/noticia/imagem",
+        uploadUrl: "/noticias/api/CreatePublicacao",
         uploadMode: 'useForm',
     })
 
     dxComp.noticia = new DevExpress.ui.dxTextArea("#noticia", {
         label: "Notícia",
-        width: 700,
+        width: 800,
         height: 110,
         labelMode: "floating",
     });
@@ -64,6 +77,7 @@ function carregaDxComp() {
     dxComp.categoria = new DevExpress.ui.dxLookup("#categoria", {
         width: 400,
         dataSource: dataSource.categorias,
+        wrapItemText: true,
         valueExpr: 'id',
         displayExpr: 'descricao',
         labelMode: "floating",
@@ -79,6 +93,7 @@ function carregaDxComp() {
 
     dxComp.publicada = new DevExpress.ui.dxSwitch("#publicada", {
         width: 100,
+        value: true,
         switchedOnText: "PUBLICADA",
         switchedOffText: "DESATIVADA",
     });
@@ -104,32 +119,57 @@ function carregaDxComp() {
     dxComp.publicar = new DevExpress.ui.dxButton("#publicar", {
         text: "Publicar",
         width: 100,
-        onClick: e => {
+        onClick: async e => {
             console.log(e, DevExpress.validationEngine.validateGroup("validator"));
             if (!DevExpress.validationEngine.validateGroup("validator").isValid) return;
 
-            ////TODO: enviar create usuário
+            let reqUrl = '/noticias/api/CreatePublicacao';
+            if (dxComp.lookUpNoticias.option('value') !== null) reqUrl = '/noticias/api/UpdatePublicacao/' + dxComp.lookUpNoticias.option('value');
 
-            //$.post('dsadsda', { nome: dxComp.nome.option('value'), email: dxComp.email.option('value'), senha: dxComp.senha.option('value') })
-            //    .done(() => {
-            //        //TODO: deu certo ir para próxima página
-            //    })
-            //    .fail(() => {
-            //        //TODO: Erro
-            //    })
+            let data = {
+                AutorId: dataSource.user.id,
+                Titulo: dxComp.titulo.option('value'),
+                URL_imagem: dxComp.imagem.option('value').length == 0 ? "" : dxComp.imagem.option('value')[0].name,
+                Texto: dxComp.noticia.option('value'),
+                Publicada: dxComp.publicada.option('value'),
+                CategoriaId: dxComp.categoria.option('value'),
+            }
+
+            let newNoticia, idForm;
+
+            await $.post(reqUrl, data)
+                .done(a => {
+                    console.log(a);
+                    newNoticia = a;
+                    idForm = String(a.id);
+                })
+                .fail(a => {
+                    console.error(a);
+                })
+
+            if (dxComp.imagem.option('value').length > 0) {
+                let formData = new FormData();
+                formData.append('image', dxComp.imagem.option('value')[0]);
+                formData.append('id', idForm);
+
+                $.ajax({
+                    url: '/noticias/api/SaveImagemPublicacao',
+                    type: 'POST',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                })
+                    .done(a => {
+                        console.log(a);
+                    })
+                    .fail(a => {
+                        console.error(a);
+                    })
+            }
+
         },
     });
 
 
 }
 
-//<div id="lookUpNoticias"></div>
-//    <div id="titulo"></div>
-//    <div id="imagem"></div>
-//    <div id="noticia"></div>
-//    <div id="categoria"></div>
-//    <div id="publicada"></div>
-//    <div class="mt-4">
-//        <div id="limpar"></div>
-//        <div id="publicar"></div>
-//    </div>

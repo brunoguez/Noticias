@@ -167,3 +167,6 @@ C:\Users\Bruno\Documents\GitHub\Noticias\obj\Debug\net7.0\ref\Noticias.dll
 C:\Users\Bruno\Noticias\bin\Debug\net7.0\package.json
 C:\Users\Bruno\Noticias\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\Bruno\Noticias\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Bruno\Documents\GitHub\Noticias\bin\Debug\net7.0\package.json
+C:\Users\Bruno\Documents\GitHub\Noticias\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Bruno\Documents\GitHub\Noticias\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll

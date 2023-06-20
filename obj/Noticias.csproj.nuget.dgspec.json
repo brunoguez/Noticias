@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruno\\Noticias\\Noticias.csproj": {}
+    "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\Noticias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruno\\Noticias\\Noticias.csproj": {
+    "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\Noticias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno\\Noticias\\Noticias.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\Noticias.csproj",
         "projectName": "Noticias",
-        "projectPath": "C:\\Users\\Bruno\\Noticias\\Noticias.csproj",
+        "projectPath": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\Noticias.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno\\Noticias\\obj\\",
+        "outputPath": "C:\\Users\\Bruno\\Documents\\GitHub\\Noticias\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

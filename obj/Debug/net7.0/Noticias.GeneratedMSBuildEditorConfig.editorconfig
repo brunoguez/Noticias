@@ -9,29 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Noticias
 build_property.RootNamespace = Noticias
-build_property.ProjectDir = C:\Users\Bruno\Noticias\
+build_property.ProjectDir = C:\Users\Bruno\Documents\GitHub\Noticias\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Bruno\Noticias
+build_property.MSBuildProjectDirectory = C:\Users\Bruno\Documents\GitHub\Noticias
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Bruno/Noticias/Views/Cadastro/Cadastro.cshtml]
+[C:/Users/Bruno/Documents/GitHub/Noticias/Views/Cadastro/Cadastro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cm9cQ2FkYXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruno/Noticias/Views/Login/Login.cshtml]
+[C:/Users/Bruno/Documents/GitHub/Noticias/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruno/Noticias/Views/Noticias/Noticias.cshtml]
+[C:/Users/Bruno/Documents/GitHub/Noticias/Views/Noticias/Noticias.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcTm90aWNpYXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruno/Noticias/Views/Noticias/Publicar.cshtml]
+[C:/Users/Bruno/Documents/GitHub/Noticias/Views/Noticias/Publicar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNpYXNcUHVibGljYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bruno/Noticias/Views/Shared/_Layout.cshtml]
+[C:/Users/Bruno/Documents/GitHub/Noticias/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

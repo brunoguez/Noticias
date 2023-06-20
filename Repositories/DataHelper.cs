@@ -20,7 +20,7 @@ namespace Noticias.Repositories
             providerFactory = SqliteFactory.Instance;
         }
 
-        public int ExecuteNonQuery(string sql, SqlParameter[]? sqlParameters = null)
+        public int ExecuteNonQuery(string sql, SqliteParameter[]? sqlParameters = null)
         {
             using (var connection = providerFactory.CreateConnection())
             {
@@ -29,6 +29,7 @@ namespace Noticias.Repositories
                 using (var command = connection.CreateCommand())
                 {
                     command.CommandText = sql;
+                    command.Parameters.AddRange(sqlParameters);
                     return command.ExecuteNonQuery();
                 }
             }

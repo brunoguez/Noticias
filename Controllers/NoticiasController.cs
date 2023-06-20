@@ -7,6 +7,8 @@ namespace Noticias.Controllers
     [Route("Noticias")]
     public class NoticiasController : Controller
     {
+        private readonly IWebHostEnvironment _env;
+        public NoticiasController(IWebHostEnvironment env) =>_env = env;
         [HttpGet]
         public IActionResult Noticias()
         {
@@ -37,20 +39,71 @@ namespace Noticias.Controllers
             return Ok(new { noticias, categoriaList });
         }
 
+        [HttpPost]
+        [Route("api/CreatePublicacao")]
+        public IActionResult CreatePublicacao(Noticia noticia)
+        {
+            try
+            {
+                NoticiasService noticiasService = new();
+                Noticia newNoticia = noticiasService.CreatePublicacao(noticia);
+                return Ok(newNoticia);
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+
+        [HttpPut]
+        [Route("api/UpdatePublicacao/{id}")]
+        public IActionResult UpdatePublicacao([FromRoute]int id, Noticia noticia)
+        {
+            try
+            {
+                NoticiasService noticiasService = new();
+                noticia.Id = id;
+                noticiasService.UpdatePublicacao(noticia);
+                return Ok("Noticia atualizada");
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+
+        [HttpPost]
+        [Route("api/SaveImagemPublicacao")]
+        public IActionResult SaveImagemPublicacao()
+        {
+            NoticiasService noticiasService = new();
+            noticiasService.SaveImagemPublicacao(Request.Form, GetWwwRootPath());
+            return Ok("Imagem recebida");
+        }
+
         [HttpGet]
         [Route("api/GetPublicacao")]
         public IActionResult GetPublicacao()
         {
             NoticiasService noticiasService = new();
 
-            User user = new() { Id = 1 };
+            UserService userService = new();
+            User user = userService.GetById(2);
+            user.Password = string.Empty;
 
             List<Categoria> categorias = noticiasService.GetCategorias();
 
             List<object> noticias = new();
-            noticiasService.GetNoticiasByUser(user).ForEach(a => noticias.Add(new { a, desc = $"{a.Id} - {a.Titulo} | {a.DataPublicacao:dd/MM/yyy}" }));
+            noticiasService.GetNoticiasByUser(user).ForEach(notice => noticias.Add(new { notice, id = notice.Id, desc = $"{notice.Id} - {notice.Titulo} | {notice.DataPublicacao:dd/MM/yyy}" }));
 
-            return Ok(new { noticias, categorias });
+
+
+            return Ok(new { noticias, categorias, user});
+        }
+        public string GetWwwRootPath()
+        {
+            string wwwRootPath = _env.WebRootPath;
+            return wwwRootPath;
         }
 
     }
