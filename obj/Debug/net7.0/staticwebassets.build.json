@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IidL+HHxfHqJNnzjmDLW3xsKAt/1UvdRNLUMKvO2yZQ=",
+  "Hash": "moHEjiPigS30yHhQdPOrbmRaMXhfmAE1mIZEa2v1NWY=",
   "Source": "Noticias",
   "BasePath": "_content/Noticias",
   "Mode": "Default",
@@ -2089,6 +2089,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\usuarios\\FotoRosto.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\usuarios\\logoAzure3.png",
+      "SourceId": "Noticias",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruno\\Noticias\\wwwroot\\",
+      "BasePath": "_content/Noticias",
+      "RelativePath": "img/usuarios/logoAzure3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\usuarios\\logoAzure3.png"
     },
     {
       "Identity": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\angular.js",

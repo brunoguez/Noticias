@@ -489,6 +489,10 @@
       "PackagePath": "staticwebassets\\img\\usuarios\\FotoRosto.jpeg"
     },
     {
+      "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\img\\usuarios\\logoAzure3.png",
+      "PackagePath": "staticwebassets\\img\\usuarios\\logoAzure3.png"
+    },
+    {
       "Id": "C:\\Users\\Bruno\\Noticias\\wwwroot\\js\\FileSaver.js",
       "PackagePath": "staticwebassets\\js\\FileSaver.js"
     },

@@ -40,7 +40,7 @@ namespace Noticias.Controllers
             try
             {
                 User newUser = userService.CreateUser(user);
-                userService.CreateUserCategoria(user.Id, categorias);
+                userService.CreateUserCategoria(newUser.Id, categorias);
                 return Ok(new { user = newUser });
             }
             catch (ExceptionService ex)

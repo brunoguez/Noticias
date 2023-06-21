@@ -25,6 +25,10 @@ namespace Noticias.Services
             _repository.CreateUser(user);
             newUser = _repository.GetByEmail(user.Email);
             newUser.Password = string.Empty;
+
+            if (string.IsNullOrEmpty(user.Foto)) return newUser;
+
+            _repository.UpdateFotoUser(newUser.Id.ToString() + Path.GetExtension(user.Foto), newUser.Id);
             return newUser;
         }
 

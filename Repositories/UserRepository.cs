@@ -42,12 +42,25 @@ namespace Noticias.Repositories
             {
                 new SqliteParameter("email", user.Email),
                 new SqliteParameter("nome", user.Nome),
-                new SqliteParameter("foto", user.Foto),
-                new SqliteParameter("perfil", user.Perfil),
+                new SqliteParameter("foto", user.Foto is null ? DBNull.Value : user.Foto),
+                new SqliteParameter("perfil", user.Perfil is null ? "P" : user.Perfil),
                 new SqliteParameter("senha", user.Password)
             };
 
             return helper.ExecuteNonQuery(cmd, sqlParameters);
+        }
+
+        public void UpdateFotoUser(string foto, int id)
+        {
+            string cmd = @"update Usuario set foto = @foto where idUsuario = @id";
+
+            SqliteParameter[] sqlParameters =
+            {
+                new SqliteParameter("foto", foto is null ? DBNull.Value : foto),
+                new SqliteParameter("id", id),
+            };
+
+            helper.ExecuteNonQuery(cmd, sqlParameters);
         }
 
         public User? GetByEmail(string email) => helper.GetList<User>("select * from Usuario").FirstOrDefault(x => x.Email.ToLower() == email.ToLower());
@@ -87,8 +100,8 @@ namespace Noticias.Repositories
         {
             string cmd = @"insert into CategoriaUsuario
                 (
-                    categoriaId, 
-                    usuarioId
+                    usuarioId,
+                    categoriaId
                 )
                 VALUES 
                 (

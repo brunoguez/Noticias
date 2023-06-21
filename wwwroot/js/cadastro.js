@@ -114,7 +114,7 @@ async function init() {
     dxComp.cadastrar = new DevExpress.ui.dxButton("#cadastrar", {
         text: "Cadastrar",
         width: 100,
-        onClick: e => {
+        onClick: async (e) => {
             console.log(e);
             if (!DevExpress.validationEngine.validateGroup("validator").isValid) return;
 
@@ -122,7 +122,8 @@ async function init() {
                 user: {
                     nome: dxComp.nome.option('value'),
                     email: dxComp.email.option('value'),
-                    senha: dxComp.senha.option('value')
+                    password: dxComp.senha.option('value'),
+                    foto: dxComp.foto.option('value')[0].name
                 }
             }
 
@@ -139,7 +140,7 @@ async function init() {
             await $.post('api/user/create', data)
                 .done((e) => {
                     console.log(e);
-                    idForm = a.user.id;
+                    idForm = String(e.user.id);
                     //TODO: deu certo ir para próxima página
                 })
                 .fail((e) => {
