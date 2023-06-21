@@ -83,5 +83,26 @@ namespace Noticias.Repositories
             helper.ExecuteNonQuery(cmd, sqlParameters);
         }
 
+        internal void CreateUserCategoria(int id, int categoria)
+        {
+            string cmd = @"insert into CategoriaUsuario
+                (
+                    categoriaId, 
+                    usuarioId
+                )
+                VALUES 
+                (
+                    @id, 
+                    @categoria
+                )";
+
+            SqliteParameter[] sqlParameters =
+            {
+                new SqliteParameter("id", id),
+                new SqliteParameter("categoria", categoria),
+            };
+
+            helper.ExecuteNonQuery(cmd, sqlParameters);
+        }
     }
 }

@@ -35,11 +35,12 @@ namespace Noticias.Controllers
 
         [HttpPost]
         [Route("Create")]
-        public IActionResult CreateUser(User user)
+        public IActionResult CreateUser(User user, List<int> categorias)
         {
             try
             {
                 User newUser = userService.CreateUser(user);
+                userService.CreateUserCategoria(user.Id, categorias);
                 return Ok(new { user = newUser });
             }
             catch (ExceptionService ex)

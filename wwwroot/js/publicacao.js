@@ -55,7 +55,6 @@ function carregaDxComp() {
         selectButtonText: 'Selecione sua imagem',
         labelText: '',
         accept: 'image/*',
-        //uploadUrl: "api/noticia/imagem",
         uploadUrl: "/noticias/api/CreatePublicacao",
         uploadMode: 'useForm',
     })

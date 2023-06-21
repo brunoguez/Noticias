@@ -6,7 +6,6 @@
 
     #foto {
         border: 1px solid #d3d3d3;
-        margin: 20px 20px 0 20px;
         width: 400px;
     }
 </style>
@@ -16,8 +15,12 @@
     <div id="nome"></div>
     <div id="email"></div>
     <div id="senha"></div>
-    <div id="foto"></div>
-     <div class="mt-4">
+    <div class="d-flex foto">
+        <div id="foto"></div>
+        <img id="imagemEscolhida" src="" style="max-height: 200px;"></img>
+    </div>
+    <div id="tagCategorias"></div>
+    <div class="mt-4">
         <div id="limpar"></div>
         <div id="cadastrar"></div>
     </div>

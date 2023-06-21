@@ -46,7 +46,7 @@ namespace Noticias.Services
             var file = form.Files[0];
             if (file.Length > 0)
             {
-                var filePath = local + "\\img\\usuarios\\" + file.FileName;
+                var filePath = local + "\\img\\usuarios\\" + ("undefined".Equals(form["id"]) ? file.FileName : $"{form["id"]}{Path.GetExtension(file.FileName)}");
                 using (var stream = new FileStream(filePath, FileMode.Create))
                 {
                     file.CopyToAsync(stream);
@@ -54,6 +54,11 @@ namespace Noticias.Services
             }
         }
 
-        
+        internal void CreateUserCategoria(int id, List<int> categorias)
+        {
+            categorias.ForEach(a => { 
+                _repository.CreateUserCategoria(id, a);
+            });
+        }
     }
 }

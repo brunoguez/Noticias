@@ -82,6 +82,22 @@ namespace Noticias.Controllers
         }
 
         [HttpGet]
+        [Route("api/GetCategorias")]
+        public IActionResult GetCategoria()
+        {
+            try
+            {
+                NoticiasService noticiasService = new();
+                List<Categoria> categorias = noticiasService.GetCategorias();
+                return Ok(categorias);
+            }
+            catch (Exception e)
+            {
+                return StatusCode(500, e.Message);
+            }
+        }
+
+        [HttpGet]
         [Route("api/GetPublicacao")]
         public IActionResult GetPublicacao()
         {
