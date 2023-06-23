@@ -1,4 +1,4 @@
-# Porta de notícias
+# Portal de notícias
 Desenvolvimento de projeto ASP.NET Core 7 MVC de um portal de notícias.
 # Instalação e execução
 - Faça um fork do projeto
